@@ -7,7 +7,6 @@
 ![iOS](https://img.shields.io/badge/iOS-26.0+-blue?logo=apple)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-Latest-purple)
 ![SwiftData](https://img.shields.io/badge/SwiftData-Enabled-green)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 ---
 
