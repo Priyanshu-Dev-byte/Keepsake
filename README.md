@@ -174,20 +174,6 @@ open Keepsake.swiftpm
 
 ---
 
-## 📱 Screenshots
-
-> Add your screenshots here after building
-
-| Home | Capsule Detail | Constellation |
-|------|----------------|---------------|
-| ![Home]() | ![Capsule]() | ![Constellation]() |
-
-| Add Memory | Seal Animation | Memory Card |
-|------------|----------------|-------------|
-| ![Add]() | ![Seal]() | ![Card]() |
-
----
-
 ## 🏗️ Architecture
 
 Keepsake follows a clean, simple architecture
